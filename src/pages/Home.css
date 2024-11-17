@@ -74,3 +74,12 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
+  .special-offer-1{
+    color: red;
+    text-decoration: line-through;
+  }
+  .special-offer-2{
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+  }

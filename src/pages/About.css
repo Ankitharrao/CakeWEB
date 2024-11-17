@@ -64,6 +64,17 @@
   
   .team-role {
     font-size: 1.1rem;
-    color: #5a5a5a;
+    color: #0c0c0c;
+  }
+  .social-links a{
+    color: #8b0000;
+  }
+  .team-background{
+    color: rgb(110, 110, 110);
+    text-align: center;
+
+  }
+  .number{
+    color: rgb(125, 53, 25);
   }
   

@@ -68,5 +68,39 @@
     height:200px;
     width: 200px;
     border-radius: 100px;
+}
 
-}  
+    .btn.add-to-cart {
+      background-color: #ad9696;
+    }
+    
+    .btn.add-to-cart:hover {
+      background-color: #bb8181;
+    }
+    
+    .btn.view-more {
+      background-color: #17a2b8;
+    }
+    
+    .btn.view-more:hover {
+      background-color: #138496;
+    }
+    
+    .cake-reviews {
+      margin-top: 15px;
+      padding: 10px;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+    }
+    
+    .review-item {
+      margin-bottom: 10px;
+      font-size: 0.9rem;
+    }
+    .review-item p {
+      margin: 0;
+    }
+    .buttons{
+      display: flex;
+      flex-direction: column;
+    }
